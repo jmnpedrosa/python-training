@@ -1,4 +1,3 @@
-from IPython.display import clear_output
 
 board = [' ',' ',' ',' ',' ',' ',' ',' ',' ']
 key_bindings = ['q','w','e','a','s','d','z','x','c']
